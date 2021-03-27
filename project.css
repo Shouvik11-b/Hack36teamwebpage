@@ -1,0 +1,53 @@
+.coloura{
+    height: 30px;
+    width: 60px;
+   text-decoration: none;
+    background-color: rgb(51, 163, 255);
+    border-radius: 6px;
+    font-size: 20px;
+    color: seashell;
+    font-family: 'New Tegomin', serif;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.colourb{
+    height: 50px;
+    background-color: rgb(0, 5, 10);
+    border-radius: 15px;
+   padding-left: 70px;
+   padding-top: 20px;
+   
+
+}
+.colourc{
+    position: relative;
+    text-align: center;
+    background-color: blue;
+    color: rgb(251, 249, 252);
+    font-family: cursive;
+    font-size: larger;
+float: left;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: black;
+    margin: 60px;
+cursor: pointer;
+}
+.colourd{
+    float: left;
+    width: 700px;
+    font-size: x-large;
+    font-family: 'New Tegomin', serif;
+    color: rgb(230, 230, 230);
+    margin-left: 90px;
+    margin-right: 30px;
+}
+.centered {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+  }
